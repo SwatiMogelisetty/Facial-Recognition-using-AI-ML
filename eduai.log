@@ -1,0 +1,50 @@
+Tue, 23 Jul 2019 15:50:00 logger.py[line:44] INFO ############## Start ###############
+Tue, 23 Jul 2019 15:50:07 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:08 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:09 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:10 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:11 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:12 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:13 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:14 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:15 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:15 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:16 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:17 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:18 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:19 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:20 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:21 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:21 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:22 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:23 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:24 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:25 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:27 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:28 logger.py[line:44] INFO A
+Tue, 23 Jul 2019 15:50:29 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:50:29 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_129
+Tue, 23 Jul 2019 15:50:38 logger.py[line:47] WARNING new unknown face has been founded!
+Tue, 23 Jul 2019 15:50:40 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:50:40 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_130
+Tue, 23 Jul 2019 15:50:48 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:50:48 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_131
+Tue, 23 Jul 2019 15:50:58 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:50:58 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_140
+Tue, 23 Jul 2019 15:51:06 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:51:06 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_141
+Tue, 23 Jul 2019 15:51:14 logger.py[line:44] INFO 1
+Tue, 23 Jul 2019 15:51:14 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_142
+Tue, 23 Jul 2019 15:51:22 logger.py[line:44] INFO 1
+Tue, 23 Jul 2019 15:51:22 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_143
+Tue, 23 Jul 2019 15:51:30 logger.py[line:44] INFO 1
+Tue, 23 Jul 2019 15:51:30 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_144
+Tue, 23 Jul 2019 15:51:38 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:51:38 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_145
+Tue, 23 Jul 2019 15:51:45 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:51:45 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_146
+Tue, 23 Jul 2019 15:51:53 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:51:53 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_149
+Tue, 23 Jul 2019 15:52:01 logger.py[line:44] INFO 0
+Tue, 23 Jul 2019 15:52:01 logger.py[line:53] CRITICAL unkown person comming!!! It face has been saved to unknown_face_150
+Tue, 23 Jul 2019 15:52:07 logger.py[line:44] INFO ############## End ###############
